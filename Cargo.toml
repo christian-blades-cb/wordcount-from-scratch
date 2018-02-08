@@ -1,0 +1,6 @@
+[package]
+name = "wordcount-from-scratch"
+version = "0.1.0"
+authors = ["Christian Blades <cblades@pindrop.com>"]
+
+[dependencies]
